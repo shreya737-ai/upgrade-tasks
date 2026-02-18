@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Personal Profile Card</title>
+
+    <style>
+        
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #adc9e6;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        
+        .profile-card {
+            background-color: #ece7e7;
+            width: 320px;
+            padding: 25px;               
+            margin: 20px;                
+            border: 1px solid #dddddd;   
+            border-radius: 12px;
+            text-align: center;
+        }
+
+        
+        .profile-card h1 {
+            font-size: 24px;
+            font-weight: 700;
+            margin-bottom: 5px;
+            letter-spacing: 1px;
+        }
+
+        
+        .role {
+            font-size: 14px;
+            font-weight: 600;
+            color: #555555;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            margin-bottom: 15px;
+        }
+
+       
+        .bio {
+            font-size: 15px;
+            line-height: 1.6;
+            color: #333333;
+            margin-bottom: 20px;
+        }
+
+        
+        .contact-btn {
+            padding: 10px 20px;
+            border: none;
+            background-color: #007bff;
+            color: #ffffff;
+            font-size: 14px;
+            font-weight: bold;
+            border-radius: 6px;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+        }
+
+       
+        .contact-btn:hover {
+            background-color: #0056b3;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="profile-card">
+        <h1>Shreya Banerjee</h1>
+        <div class="role">Frontend Developer</div>
+        <p class="bio">
+            Passionate about building clean, user-friendly web interfaces.
+            Always eager to learn modern web technologies and improve skills.
+        </p>
+        <button class="contact-btn">Contact Me</button>
+    </div>
+
+</body>
+</html>
