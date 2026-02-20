@@ -1,101 +1,136 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Responsive Blog Layout</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Responsive Blog Layout</title>
 
-    <style>
-        body {
-            margin: 0;
-            font-family: Arial, Helvetica, sans-serif;
-            background-color: #f4f6f8;
-        }
+<style>
 
-        
-        header {
-            background-color: #2c3e50;
-            color: white;
-            padding: 20px;
-            text-align: center;
-        }
+/* ===== Global Styles ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-        
-        main {
-            padding: 20px;
-        }
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    line-height: 1.6;
+}
 
-       
-        .blog-container {
-            display: flex;
-            flex-wrap: wrap;          
-            gap: 20px;
-        }
+/* ===== Header ===== */
+header {
+    background-color: #2c3e50;
+    color: white;
+    padding: 1.5rem;
+    text-align: center;
+}
 
-       
-        .blog-card {
-            background-color: #f5baba;
-            border: 1px solid #f4a2a2;
-            border-radius: 10px;
-            padding: 20px;
-            box-sizing: border-box;
-            flex: 1 1 300px;          
-        }
+header h1 {
+    font-size: 2rem;
+    letter-spacing: 1px;
+}
 
-        .blog-card h2 {
-            margin-top: 0;
-            font-size: 20px;
-            color: #222;
-        }
+/* ===== Main Layout ===== */
+.blog-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 2rem;
+    gap: 1.5rem;
+}
 
-        .blog-card p {
-            font-size: 14px;
-            line-height: 1.6;
-            color: #555;
-        }
+/* ===== Blog Card ===== */
+.blog-card {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1.5rem;
+    flex: 1 1 calc(33.333% - 1.5rem);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    transition: transform 0.3s ease;
+}
 
-        .blog-card button {
-            padding: 8px 15px;
-            background-color: #007bff;
-            color: white;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            font-weight: bold;
-        }
+.blog-card:hover {
+    transform: translateY(-5px);
+}
 
-        .blog-card button:hover {
-            background-color: #0056b3;
-        }
-    </style>
+.blog-card h2 {
+    font-size: 1.3rem;
+    margin-bottom: 0.8rem;
+    color: #333;
+}
+
+.blog-card p {
+    margin-bottom: 1rem;
+    color: #555;
+}
+
+.blog-card button {
+    padding: 0.6rem 1rem;
+    border: none;
+    background-color: #3498db;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.blog-card button:hover {
+    background-color: #2980b9;
+}
+
+/* ===== Tablet View ===== */
+@media (max-width: 992px) {
+    .blog-card {
+        flex: 1 1 calc(50% - 1.5rem);
+    }
+}
+
+/* ===== Mobile View ===== */
+@media (max-width: 600px) {
+    .blog-card {
+        flex: 1 1 100%;
+    }
+}
+
+</style>
 </head>
+
 <body>
 
 <header>
-    <h1>My Tech Blog</h1>
+    <h1>My Modern Blog</h1>
 </header>
 
-<main>
-    <div class="blog-container">
+<main class="blog-container">
 
-        <div class="blog-card">
-            <h2>HTML Semantics</h2>
-            <p>Understand how semantic HTML improves accessibility and SEO.</p>
-            <button>Read More</button>
-        </div>
-
-        <div class="blog-card">
-            <h2>CSS Flexbox</h2>
-            <p>Learn how Flexbox helps build responsive layouts easily.</p>
-            <button>Read More</button>
-        </div>
-
-        <div class="blog-card">
-            <h2>Responsive Design</h2>
-            <p>Discover techniques for building mobile-friendly websites.</p>
-            <button>Read More</button>
-        </div>
-
+    <div class="blog-card">
+        <h2>Web Development Trends 2026</h2>
+        <p>Explore the latest trends in frontend and backend development shaping the future of the web.</p>
+        <button>Read More</button>
     </div>
+
+    <div class="blog-card">
+        <h2>CSS Grid vs Flexbox</h2>
+        <p>Understand the difference between CSS Grid and Flexbox and when to use each effectively.</p>
+        <button>Read More</button>
+    </div>
+
+    <div class="blog-card">
+        <h2>JavaScript Best Practices</h2>
+        <p>Improve your coding skills by following modern JavaScript standards and clean code principles.</p>
+        <button>Read More</button>
+    </div>
+
+    <div class="blog-card">
+        <h2>Responsive Design Guide</h2>
+        <p>Learn how to build websites that look great on desktops, tablets, and mobile devices.</p>
+        <button>Read More</button>
+    </div>
+
 </main>
 
 </body>
