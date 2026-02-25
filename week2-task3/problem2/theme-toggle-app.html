@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Theme Toggle Application</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 100px;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        .light {
+            background-color: #ffffff;
+            color: #000000;
+        }
+
+        .dark {
+            background-color: #121212;
+            color: #ffffff;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Theme Toggle Application</h2>
+    <button id="themeBtn">Switch to Dark Mode</button>
+
+    <script>
+        const body = document.body;
+        const themeBtn = document.getElementById("themeBtn");
+
+        // Function to apply theme
+        function applyTheme(theme) {
+            body.classList.remove("light", "dark");
+            body.classList.add(theme);
+
+            themeBtn.textContent =
+                theme === "dark"
+                ? "Switch to Light Mode"
+                : "Switch to Dark Mode";
+
+            localStorage.setItem("theme", theme);
+        }
+
+        // Load saved theme on page load
+        function loadTheme() {
+            const savedTheme = localStorage.getItem("theme") || "light";
+            applyTheme(savedTheme);
+        }
+
+        // Toggle theme on button click
+        themeBtn.addEventListener("click", function() {
+            const currentTheme = body.classList.contains("dark") ? "dark" : "light";
+            const newTheme = currentTheme === "dark" ? "light" : "dark";
+            applyTheme(newTheme);
+        });
+
+        // Initialize theme when page loads
+        loadTheme();
+    </script>
+
+</body>
+</html>
