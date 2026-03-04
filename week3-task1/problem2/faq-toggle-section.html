@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FAQ Toggle Section</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <style>
+        .faq-item {
+            width: 600px;
+            margin: auto;
+        }
+
+        .faq-answer {
+            display: none;   /* Hide answers initially */
+            margin-bottom: 15px;
+        }
+
+        .active {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+
+<h1>FAQ Toggle Section</h1>
+
+<div class="faq-item">
+    <h3>What is your return policy?</h3>
+    <p class="faq-answer">We offer a 30-day return policy for all items.</p>
+
+    <h3>What payment methods do you accept?</h3>
+    <p class="faq-answer">We accept credit cards, PayPal, and bank transfers.</p>
+
+    <h3>How long does shipping take?</h3>
+    <p class="faq-answer">Standard shipping takes 5-7 business days.</p>
+
+    <h3>Do you offer international shipping?</h3>
+    <p class="faq-answer">Yes, we ship internationally.</p>
+
+    <h3>Do you have a loyalty program?</h3>
+    <p class="faq-answer">Yes, we offer exclusive discounts and rewards.</p>
+</div>
+
+<script>
+    $(document).ready(function(){
+
+        $('.faq-item h3').click(function(){
+
+            // Toggle answer
+            $(this).next('.faq-answer').slideToggle();
+
+            // Highlight selected question only
+            $(this).toggleClass("active");
+
+        });
+
+    });
+</script>
+
+</body>
+</html>
