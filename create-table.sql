@@ -110,3 +110,5 @@ INSERT INTO SessionInfo VALUES
 
 SELECT * FROM EventDetails;
 
+select * from SessionInfo;
+
