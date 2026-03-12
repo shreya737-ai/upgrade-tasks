@@ -13,13 +13,13 @@ namespace task1
             Console.Write("Enter Second Number: ");
             double num2 = double.Parse(Console.ReadLine());
 
-
+           
             Console.Write("Enter Operator (+, -, *, /): ");
             char op = Convert.ToChar(Console.ReadLine());
 
             double result;
 
-
+          
             switch (op)
             {
                 case '+':
@@ -53,5 +53,5 @@ namespace task1
                     Console.WriteLine("Invalid operator!");
                     break;
             }
-        }
     }
+}
