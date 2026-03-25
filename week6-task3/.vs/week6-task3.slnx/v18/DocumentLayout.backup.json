@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\week6\\week6-task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{104AAD63-3C2F-40B3-86D8-F534F47D90E5}|week6-task3\\week6-task3.csproj|d:\\c#\\week6\\week6-task3\\week6-task3\\dataaccess\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104AAD63-3C2F-40B3-86D8-F534F47D90E5}|week6-task3\\week6-task3.csproj|solutionrelative:week6-task3\\dataaccess\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104AAD63-3C2F-40B3-86D8-F534F47D90E5}|week6-task3\\week6-task3.csproj|d:\\c#\\week6\\week6-task3\\week6-task3\\helper\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104AAD63-3C2F-40B3-86D8-F534F47D90E5}|week6-task3\\week6-task3.csproj|solutionrelative:week6-task3\\helper\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104AAD63-3C2F-40B3-86D8-F534F47D90E5}|week6-task3\\week6-task3.csproj|d:\\c#\\week6\\week6-task3\\week6-task3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104AAD63-3C2F-40B3-86D8-F534F47D90E5}|week6-task3\\week6-task3.csproj|solutionrelative:week6-task3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104AAD63-3C2F-40B3-86D8-F534F47D90E5}|week6-task3\\week6-task3.csproj|d:\\c#\\week6\\week6-task3\\week6-task3\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{104AAD63-3C2F-40B3-86D8-F534F47D90E5}|week6-task3\\week6-task3.csproj|solutionrelative:week6-task3\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104AAD63-3C2F-40B3-86D8-F534F47D90E5}|week6-task3\\week6-task3.csproj|d:\\c#\\week6\\week6-task3\\week6-task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104AAD63-3C2F-40B3-86D8-F534F47D90E5}|week6-task3\\week6-task3.csproj|solutionrelative:week6-task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104AAD63-3C2F-40B3-86D8-F534F47D90E5}|week6-task3\\week6-task3.csproj|d:\\c#\\week6\\week6-task3\\week6-task3\\week6-task3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{104AAD63-3C2F-40B3-86D8-F534F47D90E5}|week6-task3\\week6-task3.csproj|solutionrelative:week6-task3\\week6-task3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataBaseHelper.cs",
+              "DocumentMoniker": "D:\\C#\\week6\\week6-task3\\week6-task3\\Helper\\DataBaseHelper.cs",
+              "RelativeDocumentMoniker": "week6-task3\\Helper\\DataBaseHelper.cs",
+              "ToolTip": "D:\\C#\\week6\\week6-task3\\week6-task3\\Helper\\DataBaseHelper.cs",
+              "RelativeToolTip": "week6-task3\\Helper\\DataBaseHelper.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T13:54:45.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDal.cs",
+              "DocumentMoniker": "D:\\C#\\week6\\week6-task3\\week6-task3\\DataAccess\\ProductDal.cs",
+              "RelativeDocumentMoniker": "week6-task3\\DataAccess\\ProductDal.cs",
+              "ToolTip": "D:\\C#\\week6\\week6-task3\\week6-task3\\DataAccess\\ProductDal.cs",
+              "RelativeToolTip": "week6-task3\\DataAccess\\ProductDal.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwBEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T13:54:03.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appSetting.json",
+              "DocumentMoniker": "D:\\C#\\week6\\week6-task3\\week6-task3\\appSetting.json",
+              "RelativeDocumentMoniker": "week6-task3\\appSetting.json",
+              "ToolTip": "D:\\C#\\week6\\week6-task3\\week6-task3\\appSetting.json",
+              "RelativeToolTip": "week6-task3\\appSetting.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-25T13:43:20.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\week6\\week6-task3\\week6-task3\\Program.cs",
+              "RelativeDocumentMoniker": "week6-task3\\Program.cs",
+              "ToolTip": "D:\\C#\\week6\\week6-task3\\week6-task3\\Program.cs",
+              "RelativeToolTip": "week6-task3\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T13:55:18.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\C#\\week6\\week6-task3\\week6-task3\\models\\Product.cs",
+              "RelativeDocumentMoniker": "week6-task3\\models\\Product.cs",
+              "ToolTip": "D:\\C#\\week6\\week6-task3\\week6-task3\\models\\Product.cs",
+              "RelativeToolTip": "week6-task3\\models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T13:50:49.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "week6-task3",
+              "DocumentMoniker": "D:\\C#\\week6\\week6-task3\\week6-task3\\week6-task3.csproj",
+              "RelativeDocumentMoniker": "week6-task3\\week6-task3.csproj",
+              "ToolTip": "D:\\C#\\week6\\week6-task3\\week6-task3\\week6-task3.csproj",
+              "RelativeToolTip": "week6-task3\\week6-task3.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T13:48:06.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

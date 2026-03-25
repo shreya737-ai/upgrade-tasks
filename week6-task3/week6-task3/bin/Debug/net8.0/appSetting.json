@@ -1,0 +1,7 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Initial Catalog=Table_Structure;Integrated Security=true"
+   
+  }
+
+}
