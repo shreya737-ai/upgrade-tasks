@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\week7\\week7-task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60962DA8-03A8-AC5F-5A29-4064433FC471}|week7-task1\\week7-task1.csproj|d:\\c#\\week7\\week7-task1\\week7-task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60962DA8-03A8-AC5F-5A29-4064433FC471}|week7-task1\\week7-task1.csproj|solutionrelative:week7-task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60962DA8-03A8-AC5F-5A29-4064433FC471}|week7-task1\\week7-task1.csproj|d:\\c#\\week7\\week7-task1\\week7-task1\\views\\contactinfo\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60962DA8-03A8-AC5F-5A29-4064433FC471}|week7-task1\\week7-task1.csproj|solutionrelative:week7-task1\\views\\contactinfo\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60962DA8-03A8-AC5F-5A29-4064433FC471}|week7-task1\\week7-task1.csproj|d:\\c#\\week7\\week7-task1\\week7-task1\\views\\contactinfo\\getcontactbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60962DA8-03A8-AC5F-5A29-4064433FC471}|week7-task1\\week7-task1.csproj|solutionrelative:week7-task1\\views\\contactinfo\\getcontactbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60962DA8-03A8-AC5F-5A29-4064433FC471}|week7-task1\\week7-task1.csproj|d:\\c#\\week7\\week7-task1\\week7-task1\\views\\contactinfo\\showcontacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60962DA8-03A8-AC5F-5A29-4064433FC471}|week7-task1\\week7-task1.csproj|solutionrelative:week7-task1\\views\\contactinfo\\showcontacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60962DA8-03A8-AC5F-5A29-4064433FC471}|week7-task1\\week7-task1.csproj|d:\\c#\\week7\\week7-task1\\week7-task1\\controllers\\contactinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60962DA8-03A8-AC5F-5A29-4064433FC471}|week7-task1\\week7-task1.csproj|solutionrelative:week7-task1\\controllers\\contactinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60962DA8-03A8-AC5F-5A29-4064433FC471}|week7-task1\\week7-task1.csproj|d:\\c#\\week7\\week7-task1\\week7-task1\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60962DA8-03A8-AC5F-5A29-4064433FC471}|week7-task1\\week7-task1.csproj|solutionrelative:week7-task1\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddContact.cshtml",
+              "DocumentMoniker": "D:\\C#\\week7\\week7-task1\\week7-task1\\Views\\ContactInfo\\AddContact.cshtml",
+              "RelativeDocumentMoniker": "week7-task1\\Views\\ContactInfo\\AddContact.cshtml",
+              "ToolTip": "D:\\C#\\week7\\week7-task1\\week7-task1\\Views\\ContactInfo\\AddContact.cshtml",
+              "RelativeToolTip": "week7-task1\\Views\\ContactInfo\\AddContact.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T14:51:02.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetContactById.cshtml",
+              "DocumentMoniker": "D:\\C#\\week7\\week7-task1\\week7-task1\\Views\\ContactInfo\\GetContactById.cshtml",
+              "RelativeDocumentMoniker": "week7-task1\\Views\\ContactInfo\\GetContactById.cshtml",
+              "ToolTip": "D:\\C#\\week7\\week7-task1\\week7-task1\\Views\\ContactInfo\\GetContactById.cshtml",
+              "RelativeToolTip": "week7-task1\\Views\\ContactInfo\\GetContactById.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T14:49:13.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowContacts.cshtml",
+              "DocumentMoniker": "D:\\C#\\week7\\week7-task1\\week7-task1\\Views\\ContactInfo\\ShowContacts.cshtml",
+              "RelativeDocumentMoniker": "week7-task1\\Views\\ContactInfo\\ShowContacts.cshtml",
+              "ToolTip": "D:\\C#\\week7\\week7-task1\\week7-task1\\Views\\ContactInfo\\ShowContacts.cshtml",
+              "RelativeToolTip": "week7-task1\\Views\\ContactInfo\\ShowContacts.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T14:45:27.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactInfoController.cs",
+              "DocumentMoniker": "D:\\C#\\week7\\week7-task1\\week7-task1\\Controllers\\ContactInfoController.cs",
+              "RelativeDocumentMoniker": "week7-task1\\Controllers\\ContactInfoController.cs",
+              "ToolTip": "D:\\C#\\week7\\week7-task1\\week7-task1\\Controllers\\ContactInfoController.cs",
+              "RelativeToolTip": "week7-task1\\Controllers\\ContactInfoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T14:41:22.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\week7\\week7-task1\\week7-task1\\Program.cs",
+              "RelativeDocumentMoniker": "week7-task1\\Program.cs",
+              "ToolTip": "D:\\C#\\week7\\week7-task1\\week7-task1\\Program.cs",
+              "RelativeToolTip": "week7-task1\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T14:32:14.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactInfo.cs",
+              "DocumentMoniker": "D:\\C#\\week7\\week7-task1\\week7-task1\\Models\\ContactInfo.cs",
+              "RelativeDocumentMoniker": "week7-task1\\Models\\ContactInfo.cs",
+              "ToolTip": "D:\\C#\\week7\\week7-task1\\week7-task1\\Models\\ContactInfo.cs",
+              "RelativeToolTip": "week7-task1\\Models\\ContactInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T14:39:45.797Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
