@@ -1,0 +1,56 @@
+﻿@model week7_task3.Models.ContactInfo
+
+@{
+    ViewData["Title"] = "Add Contact";
+}
+
+<h2>Add Contact</h2>
+
+<form method="post" action="/Contact/AddContact">
+    <div>
+        <label>Contact ID:</label>
+        <input type="number" asp-for="ContactId" required />
+    </div>
+    <br />
+
+    <div>
+        <label>First Name:</label>
+        <input type="text" asp-for="FirstName" required />
+    </div>
+    <br />
+
+    <div>
+        <label>Last Name:</label>
+        <input type="text" asp-for="LastName" required />
+    </div>
+    <br />
+
+    <div>
+        <label>Company Name:</label>
+        <input type="text" asp-for="CompanyName" required />
+    </div>
+    <br />
+
+    <div>
+        <label>Email ID:</label>
+        <input type="email" asp-for="EmailId" required />
+    </div>
+    <br />
+
+    <div>
+        <label>Mobile No:</label>
+        <input type="number" asp-for="MobileNo" required />
+    </div>
+    <br />
+
+    <div>
+        <label>Designation:</label>
+        <input type="text" asp-for="Designation" required />
+    </div>
+    <br />
+
+    <button type="submit">Add Contact</button>
+</form>
+
+<br />
+<a href="/Contact/ShowContacts">Back to Contact List</a>
