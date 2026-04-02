@@ -1,0 +1,38 @@
+﻿@model IEnumerable<DataAccessLayer.Models.ContactInfo>
+
+<h2>All Contacts</h2>
+
+<p>
+    <a asp-action="AddContact" asp-controller="Contact">Add New Contact</a>
+</p>
+
+<table border="1" cellpadding="10">
+    <tr>
+        <th>Contact ID</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Mobile</th>
+        <th>Designation</th>
+        <th>Company</th>
+        <th>Department</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ContactId</td>
+            <td>@item.FirstName @item.LastName</td>
+            <td>@item.EmailId</td>
+            <td>@item.MobileNo</td>
+            <td>@item.Designation</td>
+            <td>@item.Company?.CompanyName</td>
+            <td>@item.Department?.DepartmentName</td>
+            <td>
+                <a asp-action="GetContactById" asp-route-id="@item.ContactId">View</a> |
+                <a asp-action="EditContact" asp-route-id="@item.ContactId">Edit</a> |
+                <a asp-action="DeleteContact" asp-route-id="@item.ContactId">Delete</a>
+            </td>
+        </tr>
+    }
+</table>

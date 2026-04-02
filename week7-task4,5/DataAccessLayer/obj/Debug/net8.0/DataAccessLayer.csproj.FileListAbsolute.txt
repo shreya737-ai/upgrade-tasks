@@ -1,0 +1,15 @@
+D:\C#\week7\week7-task4,5\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\C#\week7\week7-task4,5\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+D:\C#\week7\week7-task4,5\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\C#\week7\week7-task4,5\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\C#\week7\week7-task4,5\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\C#\week7\week7-task4,5\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\week7\week7-task4,5\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\C#\week7\week7-task4,5\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\C#\week7\week7-task4,5\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\C#\week7\week7-task4,5\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+D:\C#\week7\week7-task4,5\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\C#\week7\week7-task4,5\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\C#\week7\week7-task4,5\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\C#\week7\week7-task4,5\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+D:\C#\week7\week7-task4,5\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

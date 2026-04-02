@@ -1,0 +1,50 @@
+﻿@model DataAccessLayer.Models.ContactInfo
+
+<h2>Add Contact</h2>
+
+<form asp-action="AddContact" method="post">
+    <div>
+        <label>First Name</label>
+        <input asp-for="FirstName" />
+    </div>
+
+    <div>
+        <label>Last Name</label>
+        <input asp-for="LastName" />
+    </div>
+
+    <div>
+        <label>Email</label>
+        <input asp-for="EmailId" />
+    </div>
+
+    <div>
+        <label>Mobile No</label>
+        <input asp-for="MobileNo" />
+    </div>
+
+    <div>
+        <label>Designation</label>
+        <input asp-for="Designation" />
+    </div>
+
+    <div>
+        <label>Company</label>
+        <select asp-for="CompanyId" asp-items="ViewBag.Companies">
+            <option value="">-- Select Company --</option>
+        </select>
+    </div>
+
+    <div>
+        <label>Department</label>
+        <select asp-for="DepartmentId" asp-items="ViewBag.Departments">
+            <option value="">-- Select Department --</option>
+        </select>
+    </div>
+
+    <button type="submit">Save</button>
+</form>
+
+<p>
+    <a asp-action="ShowContacts">Back to List</a>
+</p>
