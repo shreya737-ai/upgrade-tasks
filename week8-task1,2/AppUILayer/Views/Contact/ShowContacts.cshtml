@@ -1,0 +1,47 @@
+﻿@model IEnumerable<DAL.Models.ContactInfo>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "All Contacts";
+}
+
+<h2>All Contacts</h2>
+
+<p>
+    <a asp-action="AddContact" asp-controller="Contact" class="btn btn-primary">Add New Contact</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Contact Id</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Email</th>
+            <th>Mobile</th>
+            <th>Designation</th>
+            <th>Company</th>
+            <th>Department</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var contact in Model)
+        {
+            <tr>
+                <td>@contact.ContactId</td>
+                <td>@contact.FirstName</td>
+                <td>@contact.LastName</td>
+                <td>@contact.EmailId</td>
+                <td>@contact.MobileNo</td>
+                <td>@contact.Designation</td>
+                <td>@contact.CompanyName</td>
+                <td>@contact.DepartmentName</td>
+                <td>
+                    <a asp-action="GetContactById" asp-route-id="@contact.ContactId" class="btn btn-info btn-sm">View</a>
+                    <a asp-action="EditContact" asp-route-id="@contact.ContactId" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-action="DeleteContact" asp-route-id="@contact.ContactId" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

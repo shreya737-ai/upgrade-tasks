@@ -1,0 +1,12 @@
+D:\C#\week8\week8-task1,2\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\C#\week8\week8-task1,2\DAL\bin\Debug\net8.0\DAL.dll
+D:\C#\week8\week8-task1,2\DAL\bin\Debug\net8.0\DAL.pdb
+D:\C#\week8\week8-task1,2\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\C#\week8\week8-task1,2\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\week8\week8-task1,2\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\C#\week8\week8-task1,2\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\C#\week8\week8-task1,2\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\C#\week8\week8-task1,2\DAL\obj\Debug\net8.0\DAL.dll
+D:\C#\week8\week8-task1,2\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\C#\week8\week8-task1,2\DAL\obj\Debug\net8.0\DAL.pdb
+D:\C#\week8\week8-task1,2\DAL\obj\Debug\net8.0\ref\DAL.dll

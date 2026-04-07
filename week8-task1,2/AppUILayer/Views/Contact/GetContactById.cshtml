@@ -1,0 +1,20 @@
+﻿@model DAL.Models.ContactInfo
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Contact Details";
+}
+
+<h2>Contact Details</h2>
+
+<table class="table table-bordered">
+    <tr><th>Contact Id</th><td>@Model.ContactId</td></tr>
+    <tr><th>First Name</th><td>@Model.FirstName</td></tr>
+    <tr><th>Last Name</th><td>@Model.LastName</td></tr>
+    <tr><th>Email</th><td>@Model.EmailId</td></tr>
+    <tr><th>Mobile</th><td>@Model.MobileNo</td></tr>
+    <tr><th>Designation</th><td>@Model.Designation</td></tr>
+    <tr><th>Company</th><td>@Model.CompanyName</td></tr>
+    <tr><th>Department</th><td>@Model.DepartmentName</td></tr>
+</table>
+
+<a asp-action="ShowContacts" class="btn btn-secondary">Back</a>
