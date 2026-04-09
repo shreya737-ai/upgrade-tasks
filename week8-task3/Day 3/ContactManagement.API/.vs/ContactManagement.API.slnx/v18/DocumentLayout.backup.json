@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UpGrad Assessment\\Week 8\\Day 3\\ContactManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFFDD00-D7A4-4D71-8CDC-A764D41D6E98}|ContactManagement.API\\ContactManagement.API.csproj|e:\\upgrad assessment\\week 8\\day 3\\contactmanagement.api\\contactmanagement.api\\contactmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DFFFDD00-D7A4-4D71-8CDC-A764D41D6E98}|ContactManagement.API\\ContactManagement.API.csproj|solutionrelative:contactmanagement.api\\contactmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFFDD00-D7A4-4D71-8CDC-A764D41D6E98}|ContactManagement.API\\ContactManagement.API.csproj|e:\\upgrad assessment\\week 8\\day 3\\contactmanagement.api\\contactmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFFDD00-D7A4-4D71-8CDC-A764D41D6E98}|ContactManagement.API\\ContactManagement.API.csproj|solutionrelative:contactmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFFDD00-D7A4-4D71-8CDC-A764D41D6E98}|ContactManagement.API\\ContactManagement.API.csproj|e:\\upgrad assessment\\week 8\\day 3\\contactmanagement.api\\contactmanagement.api\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFFDD00-D7A4-4D71-8CDC-A764D41D6E98}|ContactManagement.API\\ContactManagement.API.csproj|solutionrelative:contactmanagement.api\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFFDD00-D7A4-4D71-8CDC-A764D41D6E98}|ContactManagement.API\\ContactManagement.API.csproj|e:\\upgrad assessment\\week 8\\day 3\\contactmanagement.api\\contactmanagement.api\\dal\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFFDD00-D7A4-4D71-8CDC-A764D41D6E98}|ContactManagement.API\\ContactManagement.API.csproj|solutionrelative:contactmanagement.api\\dal\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFFDD00-D7A4-4D71-8CDC-A764D41D6E98}|ContactManagement.API\\ContactManagement.API.csproj|e:\\upgrad assessment\\week 8\\day 3\\contactmanagement.api\\contactmanagement.api\\dal\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFFDD00-D7A4-4D71-8CDC-A764D41D6E98}|ContactManagement.API\\ContactManagement.API.csproj|solutionrelative:contactmanagement.api\\dal\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFFDD00-D7A4-4D71-8CDC-A764D41D6E98}|ContactManagement.API\\ContactManagement.API.csproj|e:\\upgrad assessment\\week 8\\day 3\\contactmanagement.api\\contactmanagement.api\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFFDD00-D7A4-4D71-8CDC-A764D41D6E98}|ContactManagement.API\\ContactManagement.API.csproj|solutionrelative:contactmanagement.api\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFFDD00-D7A4-4D71-8CDC-A764D41D6E98}|ContactManagement.API\\ContactManagement.API.csproj|e:\\upgrad assessment\\week 8\\day 3\\contactmanagement.api\\contactmanagement.api\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFFDD00-D7A4-4D71-8CDC-A764D41D6E98}|ContactManagement.API\\ContactManagement.API.csproj|solutionrelative:contactmanagement.api\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFFDD00-D7A4-4D71-8CDC-A764D41D6E98}|ContactManagement.API\\ContactManagement.API.csproj|e:\\upgrad assessment\\week 8\\day 3\\contactmanagement.api\\contactmanagement.api\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFFDD00-D7A4-4D71-8CDC-A764D41D6E98}|ContactManagement.API\\ContactManagement.API.csproj|solutionrelative:contactmanagement.api\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactManagement.API",
+              "DocumentMoniker": "E:\\UpGrad Assessment\\Week 8\\Day 3\\ContactManagement.API\\ContactManagement.API\\ContactManagement.API.csproj",
+              "RelativeDocumentMoniker": "ContactManagement.API\\ContactManagement.API.csproj",
+              "ToolTip": "E:\\UpGrad Assessment\\Week 8\\Day 3\\ContactManagement.API\\ContactManagement.API\\ContactManagement.API.csproj*",
+              "RelativeToolTip": "ContactManagement.API\\ContactManagement.API.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-08T17:35:23.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\UpGrad Assessment\\Week 8\\Day 3\\ContactManagement.API\\ContactManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "ContactManagement.API\\Program.cs",
+              "ToolTip": "E:\\UpGrad Assessment\\Week 8\\Day 3\\ContactManagement.API\\ContactManagement.API\\Program.cs",
+              "RelativeToolTip": "ContactManagement.API\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:52:55.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "E:\\UpGrad Assessment\\Week 8\\Day 3\\ContactManagement.API\\ContactManagement.API\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ContactManagement.API\\Controllers\\ContactController.cs",
+              "ToolTip": "E:\\UpGrad Assessment\\Week 8\\Day 3\\ContactManagement.API\\ContactManagement.API\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ContactManagement.API\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:42:22.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "E:\\UpGrad Assessment\\Week 8\\Day 3\\ContactManagement.API\\ContactManagement.API\\DAL\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "ContactManagement.API\\DAL\\ContactRepository.cs",
+              "ToolTip": "E:\\UpGrad Assessment\\Week 8\\Day 3\\ContactManagement.API\\ContactManagement.API\\DAL\\ContactRepository.cs",
+              "RelativeToolTip": "ContactManagement.API\\DAL\\ContactRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:54:24.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "E:\\UpGrad Assessment\\Week 8\\Day 3\\ContactManagement.API\\ContactManagement.API\\DAL\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "ContactManagement.API\\DAL\\IContactRepository.cs",
+              "ToolTip": "E:\\UpGrad Assessment\\Week 8\\Day 3\\ContactManagement.API\\ContactManagement.API\\DAL\\IContactRepository.cs",
+              "RelativeToolTip": "ContactManagement.API\\DAL\\IContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:53:31.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Company.cs",
+              "DocumentMoniker": "E:\\UpGrad Assessment\\Week 8\\Day 3\\ContactManagement.API\\ContactManagement.API\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "ContactManagement.API\\Models\\Company.cs",
+              "ToolTip": "E:\\UpGrad Assessment\\Week 8\\Day 3\\ContactManagement.API\\ContactManagement.API\\Models\\Company.cs",
+              "RelativeToolTip": "ContactManagement.API\\Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:50:15.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactInfo.cs",
+              "DocumentMoniker": "E:\\UpGrad Assessment\\Week 8\\Day 3\\ContactManagement.API\\ContactManagement.API\\Models\\ContactInfo.cs",
+              "RelativeDocumentMoniker": "ContactManagement.API\\Models\\ContactInfo.cs",
+              "ToolTip": "E:\\UpGrad Assessment\\Week 8\\Day 3\\ContactManagement.API\\ContactManagement.API\\Models\\ContactInfo.cs",
+              "RelativeToolTip": "ContactManagement.API\\Models\\ContactInfo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:49:41.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\UpGrad Assessment\\Week 8\\Day 3\\ContactManagement.API\\ContactManagement.API\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "ContactManagement.API\\Models\\Department.cs",
+              "ToolTip": "E:\\UpGrad Assessment\\Week 8\\Day 3\\ContactManagement.API\\ContactManagement.API\\Models\\Department.cs",
+              "RelativeToolTip": "ContactManagement.API\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:51:02.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
