@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\week9\\week9-task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E48319-C802-417F-9865-737C82723CCE}|week9-task2\\week9-task2.csproj|d:\\c#\\week9\\week9-task2\\week9-task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E48319-C802-417F-9865-737C82723CCE}|week9-task2\\week9-task2.csproj|solutionrelative:week9-task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E48319-C802-417F-9865-737C82723CCE}|week9-task2\\week9-task2.csproj|d:\\c#\\week9\\week9-task2\\week9-task2\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E48319-C802-417F-9865-737C82723CCE}|week9-task2\\week9-task2.csproj|solutionrelative:week9-task2\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E48319-C802-417F-9865-737C82723CCE}|week9-task2\\week9-task2.csproj|d:\\c#\\week9\\week9-task2\\week9-task2\\service\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E48319-C802-417F-9865-737C82723CCE}|week9-task2\\week9-task2.csproj|solutionrelative:week9-task2\\service\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E48319-C802-417F-9865-737C82723CCE}|week9-task2\\week9-task2.csproj|d:\\c#\\week9\\week9-task2\\week9-task2\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E48319-C802-417F-9865-737C82723CCE}|week9-task2\\week9-task2.csproj|solutionrelative:week9-task2\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E48319-C802-417F-9865-737C82723CCE}|week9-task2\\week9-task2.csproj|d:\\c#\\week9\\week9-task2\\week9-task2\\repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E48319-C802-417F-9865-737C82723CCE}|week9-task2\\week9-task2.csproj|solutionrelative:week9-task2\\repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E48319-C802-417F-9865-737C82723CCE}|week9-task2\\week9-task2.csproj|d:\\c#\\week9\\week9-task2\\week9-task2\\service\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E48319-C802-417F-9865-737C82723CCE}|week9-task2\\week9-task2.csproj|solutionrelative:week9-task2\\service\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E48319-C802-417F-9865-737C82723CCE}|week9-task2\\week9-task2.csproj|d:\\c#\\week9\\week9-task2\\week9-task2\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E48319-C802-417F-9865-737C82723CCE}|week9-task2\\week9-task2.csproj|solutionrelative:week9-task2\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\week9\\week9-task2\\week9-task2\\Program.cs",
+              "RelativeDocumentMoniker": "week9-task2\\Program.cs",
+              "ToolTip": "D:\\C#\\week9\\week9-task2\\week9-task2\\Program.cs",
+              "RelativeToolTip": "week9-task2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T13:55:10.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "D:\\C#\\week9\\week9-task2\\week9-task2\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "week9-task2\\Controllers\\ContactsController.cs",
+              "ToolTip": "D:\\C#\\week9\\week9-task2\\week9-task2\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "week9-task2\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T13:54:27.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "D:\\C#\\week9\\week9-task2\\week9-task2\\Service\\ContactService.cs",
+              "RelativeDocumentMoniker": "week9-task2\\Service\\ContactService.cs",
+              "ToolTip": "D:\\C#\\week9\\week9-task2\\week9-task2\\Service\\ContactService.cs",
+              "RelativeToolTip": "week9-task2\\Service\\ContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T13:52:39.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "D:\\C#\\week9\\week9-task2\\week9-task2\\Service\\IContactService.cs",
+              "RelativeDocumentMoniker": "week9-task2\\Service\\IContactService.cs",
+              "ToolTip": "D:\\C#\\week9\\week9-task2\\week9-task2\\Service\\IContactService.cs",
+              "RelativeToolTip": "week9-task2\\Service\\IContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T13:51:03.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "D:\\C#\\week9\\week9-task2\\week9-task2\\Repository\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "week9-task2\\Repository\\ContactRepository.cs",
+              "ToolTip": "D:\\C#\\week9\\week9-task2\\week9-task2\\Repository\\ContactRepository.cs",
+              "RelativeToolTip": "week9-task2\\Repository\\ContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T13:44:04.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "D:\\C#\\week9\\week9-task2\\week9-task2\\Repository\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "week9-task2\\Repository\\IContactRepository.cs",
+              "ToolTip": "D:\\C#\\week9\\week9-task2\\week9-task2\\Repository\\IContactRepository.cs",
+              "RelativeToolTip": "week9-task2\\Repository\\IContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T13:42:48.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\C#\\week9\\week9-task2\\week9-task2\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "week9-task2\\Models\\Contact.cs",
+              "ToolTip": "D:\\C#\\week9\\week9-task2\\week9-task2\\Models\\Contact.cs",
+              "RelativeToolTip": "week9-task2\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T13:41:21.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
