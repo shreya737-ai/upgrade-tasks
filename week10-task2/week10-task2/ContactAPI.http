@@ -1,0 +1,39 @@
+### Get all contacts
+GET https://localhost:5001/api/contacts
+Accept: application/json
+
+###
+
+### Get contact by ID
+GET https://localhost:5001/api/contacts/1
+Accept: application/json
+
+###
+
+### Add new contact
+POST https://localhost:5001/api/contacts
+Content-Type: application/json
+
+{
+  "name": "Shreya",
+  "email": "shreya@gmail.com",
+  "phone": "9876543210"
+}
+
+###
+
+### Update contact
+PUT https://localhost:5001/api/contacts/1
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "Updated",
+  "email": "updated@gmail.com",
+  "phone": "9999999999"
+}
+
+###
+
+### Delete contact
+DELETE https://localhost:5001/api/contacts/1

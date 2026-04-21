@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>week10_task1</RootNamespace>
+	  <EnableNETAnalyzers>true</EnableNETAnalyzers>
+
+	  <!-- Latest rules -->
+	  <AnalysisLevel>latest</AnalysisLevel>
+
+	  <!-- Optional -->
+	  <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="D:\C#\week10\week10-task1\week10-task1\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="D:\C#\week10\week10-task1\week10-task1\.editorconfig" />
+  </ItemGroup>
+
+</Project>
