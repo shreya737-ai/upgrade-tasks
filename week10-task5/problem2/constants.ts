@@ -1,0 +1,2 @@
+// Application Constants
+export const PASS_MARKS: number = 40;
